@@ -17,6 +17,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
+    //메인앱
     private TabLayout tabLayout;
     private ArrayList<String> tabNames = new ArrayList<>();
     private Fragment1 fragment1;
